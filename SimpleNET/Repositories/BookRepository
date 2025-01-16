@@ -1,0 +1,4 @@
+namespace SimpleNET.Repositories
+{
+    public class BookRepository{ }
+}

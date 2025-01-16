@@ -1,0 +1,14 @@
+/* wwwroot/css/style.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#status {
+    font-size: 18px;
+    color: green;
+}
