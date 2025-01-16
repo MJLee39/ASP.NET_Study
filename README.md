@@ -11,6 +11,7 @@
 ---
 
 ### 개발 환경 준비
+macOS에서 Docker SQL Server 컨테이너와 로컬 ASP.NET 어플리케이션 통신
 
 1. vscode 설치
 2. .NET SDK 설치
