@@ -16,6 +16,8 @@ macOS에서 Docker SQL Server 컨테이너와 로컬 ASP.NET 어플리케이션 
 1. vscode 설치
 2. .NET SDK 설치
 3. vscode에 c# dev kit 라이브러리 설치
+4. docker 환경 준비
+5. Azure Data Studio 설치
 
 ---
 
